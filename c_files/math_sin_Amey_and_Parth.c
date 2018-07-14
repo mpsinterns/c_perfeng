@@ -12,9 +12,7 @@ int main(void)
     signed int count;
     int x = 42;
     for( count=-500000; count <= 500000; count++) {
-        isdigit('1234');
-        atof("1312312");
-        testexp(x);
+        testsin(x);
     }
     
     gettimeofday(&stop, NULL);
@@ -23,6 +21,6 @@ int main(void)
     
 }
 
-int testexp(int n){
+int testsin(int n){
    return  sin(n);
 }
