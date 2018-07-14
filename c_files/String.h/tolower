@@ -10,7 +10,7 @@ int main(void)
     gettimeofday(&start, NULL);
     unsigned int count;
     for( count=0; count <= 1000000; count++) {
-        tolower('a');
+        tolower('A');
     }
    
     gettimeofday(&stop, NULL);
