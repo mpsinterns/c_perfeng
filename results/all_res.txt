@@ -1,0 +1,36 @@
+../c_files/isAlpha.c
+isdigit took 0.001482000
+../c_files/isalnum.c
+isdigit took 0.001577000
+../c_files/String.h/atoi.c
+atoi took 0.022871000
+../c_files/String.h/isdigit.c
+isdigit took 0.001492000
+../c_files/String.h/isblank.c
+isdigit took 0.001547000
+../c_files/String.h/ispunct.c
+ispunct took 0.001491000
+../c_files/String.h/isalpha.c
+isalpha took 0.001672000
+../c_files/String.h/toupper.c
+toupper took 0.001520000
+../c_files/String.h/islower.c
+islower took 0.001505000
+../c_files/String.h/memchr.c
+memchr took 0.004753000
+../c_files/String.h/isupper.c
+islower took 0.001530000
+../c_files/String.h/atof.c
+atof took 0.022238000
+../c_files/String.h/tolower.c
+tolower took 0.001492000
+../c_files/String.h/isspace.c
+isspace took 0.001501000
+../c_files/String.h/isalnum.c
+isalnum took 0.001492000
+../c_files/math_sin_Amey_and_Parth.c
+sin took 0.032211000
+../c_isdigit.c
+isdigit took 0.001492000
+../stdlib/c_sscanf.c
+sscanf took 0.061579
