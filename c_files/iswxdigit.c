@@ -13,7 +13,7 @@ int main(void)
     struct timeval stop, start;
     gettimeofday(&start, NULL);
     unsigned int count;
-    char digit = 0;
+    wchar_t digit = 0;
 
     for( count=0; count <= 1000000; count++) 
     {
