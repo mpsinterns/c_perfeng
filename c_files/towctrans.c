@@ -17,7 +17,7 @@ int main(void)
     
     for( count=0; count <= 1000000; count++) 
     {
-     towctrans(k[0], wctrans("tojhira"));
+     towctrans(k[0], wctrans("hey"));
     }
 
     gettimeofday(&stop, NULL);
