@@ -9,8 +9,8 @@ int main(void)
     struct timeval stop, start;
     gettimeofday(&start, NULL);
     unsigned int count;
+    char str[] = "ghghghghghghghghghghgh";
     for( count=0; count <= 1000000; count++) {
-        char str[] = "ghghghghghghghghghghgh";
         memset(str,'a',5);
     }
    
