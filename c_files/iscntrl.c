@@ -14,7 +14,7 @@ int main(void)
     unsigned int count;
     wchar_t num = L'\u2028';
 
-    for( count=0; count <= 10; count++) 
+    for( count=0; count <= 1000000; count++) 
     {
      iscntrl(num);
       num++;
